@@ -1,1 +1,1 @@
-# 11_final_project_Scrabble
+A Python Game of Scrabble - graduation project
